@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IseseisevTooCharp", "IseseisevTooCharp\IseseisevTooCharp.csproj", "{27E57199-DBD1-4BD1-9B72-65F7D8AF1D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E57199-DBD1-4BD1-9B72-65F7D8AF1D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E57199-DBD1-4BD1-9B72-65F7D8AF1D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E57199-DBD1-4BD1-9B72-65F7D8AF1D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E57199-DBD1-4BD1-9B72-65F7D8AF1D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CEEA38-5C1E-4C36-B98F-88D47BC8AE76}
+	EndGlobalSection
+EndGlobal
